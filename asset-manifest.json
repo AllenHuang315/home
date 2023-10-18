@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.eb693065.css",
-    "main.js": "/home/static/js/main.8458921e.js",
+    "main.js": "/home/static/js/main.cbbb54ee.js",
     "static/js/478.d7fed6c8.chunk.js": "/home/static/js/478.d7fed6c8.chunk.js",
     "static/media/allen.png": "/home/static/media/allen.a0474138bfb45966bd3d.png",
     "static/media/msi.png": "/home/static/media/msi.330a557458a40fddae4b.png",
@@ -10,11 +10,11 @@
     "static/media/panasonic.jpg": "/home/static/media/panasonic.6736abbbc8e8a2bfd980.jpg",
     "index.html": "/home/index.html",
     "main.eb693065.css.map": "/home/static/css/main.eb693065.css.map",
-    "main.8458921e.js.map": "/home/static/js/main.8458921e.js.map",
+    "main.cbbb54ee.js.map": "/home/static/js/main.cbbb54ee.js.map",
     "478.d7fed6c8.chunk.js.map": "/home/static/js/478.d7fed6c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb693065.css",
-    "static/js/main.8458921e.js"
+    "static/js/main.cbbb54ee.js"
   ]
 }
